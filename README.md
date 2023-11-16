@@ -12,3 +12,6 @@ I think we may need to look over it again to check it before doing the prototype
 
 let set a time to check it over...
 
+Add the Zipped XD or PSD file to the repository or we can get it.
+
+And i think we need to make a tablet verison to, so we each can get a part to do.
